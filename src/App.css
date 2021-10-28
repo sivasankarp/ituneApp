@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  background-color: #91cbe5;
+}
+
+
+.search {
+  padding: 30px;
+}
+
+.album-image {
+  height: 200px !important;
+  width: 200px !important;
+  margin: 10px;
+}
+
+.ui.button.Go {
+  margin-left: 20px !important;
+}
+
+.ui.container {
+  width: 1245px !important;
+}
+
+.ui.card {
+  height: 100%;
+}
+
+.ui.header {
+  padding-top: 20px !important;
+}
+
